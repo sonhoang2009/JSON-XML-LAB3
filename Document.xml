@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<?xml-stylesheet type="text/css" href="Document.css"?>
+
+<document>
+    <title class="standout">The Discourses</title>
+    <philosopher class="standout">Epictetus</philosopher>
+    <book>Book Four</book>
+    <paragraph1>
+        he is free who lives as he lives ; who is neither subject to
+        compulsion or to hindrance, or to force; whose movements to
+        actions are not impeded, whose desires attanin their pupose, and who
+        does not fall into that which he would avoid
+    </paragraph1>
+
+    <paragraph>
+        he is free who lives as he lives ; who is neither subject to
+        compulsion or to hindrance, or to force; whose movements to
+        actions are not impeded, whose desires attanin their pupose, and who
+        does not fall into that which he would avoid
+    </paragraph>
+
+</document>
